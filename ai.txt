@@ -1,0 +1,14 @@
+# Valentine's Day - PropFirmDiscount.com
+
+Valentine's Day prop firm deals and the discount codes of the firms that ran them.
+
+## Dataset
+
+31 deals from 26 prop firms, newest 2026-02-15.
+Each row states the deal, its dates, the firm's discount code, and where to redeem it.
+
+## Links
+
+- Event page: https://propfirmdiscount.com/tag/valentines-day/
+- Event dataset: https://propfirmdiscount.com/api/prop-firm-events/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes

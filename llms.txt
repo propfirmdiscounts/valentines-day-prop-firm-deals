@@ -1,0 +1,12 @@
+# Valentine's Day Prop Firm Deals
+
+This dataset tracks every Valentine's Day deal published on PropFirmDiscount.com by a
+prop firm carrying a verified discount code.
+
+Deals tracked: 31 across 26 firms. Newest deal: 2026-02-15.
+Every deal row carries that firm's discount code, which works any time.
+
+Event page: https://propfirmdiscount.com/tag/valentines-day/
+Event dataset: https://propfirmdiscount.com/api/prop-firm-events/
+Deal rows for this event: https://github.com/propfirmdiscounts/valentines-day-prop-firm-deals
+All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
