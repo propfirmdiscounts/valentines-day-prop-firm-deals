@@ -2,7 +2,7 @@
 
 As of 2026-02-15, 31 Valentine's Day deals from 26 prop firms are tracked, 31 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Valentine's Day discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at Top One Futures, 50% OFF with code PFD at Atlas Funded, and 50% OFF with code PFD at Earn2Trade.
+The biggest verified Valentine's Day discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 60% OFF with code PFD at Top One Futures, and 50% OFF with code PFD at Atlas Funded.
 
 ## Prop Firms with the Highest Discount Codes in Valentine's Day 2026
 
@@ -10,10 +10,10 @@ The biggest verified Valentine's Day discount codes in the 2026 season are 90% O
 |---|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 90% | Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations | 80% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funding Traders | PFD | 70% | FundingTraders Valentine's Day Special: 31% Off & Profit Split Boost | 31% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Top One Futures | PFD | 60% | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 4 | Atlas Funded | PFD | 50% | 40% Off All Evaluation Accounts for Valentine's Day | 40% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 5 | Earn2Trade | PFD | 50% | 60% Off First Two Months & Discounted Account Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 6 | QT Funded | PFD | 50% | QT Funded Valentine's Deal: 45% Off + Bonus Account | 45% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 3 | QT Funded | PFD | 60% | QT Funded Valentine's Deal: 45% Off + Bonus Account | 45% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | Top One Futures | PFD | 60% | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 5 | Atlas Funded | PFD | 50% | 40% Off All Evaluation Accounts for Valentine's Day | 40% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 6 | Earn2Trade | PFD | 50% | 60% Off First Two Months & Discounted Account Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | 7 | Blue Guardian Futures | PFD | 35% | Valentine's Day Promotion: 70% Off Evaluation Entry Fees | 70% off | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 8 | Goat Funded Trader | CSV | 35% | Valentine's Day Offer: $5K Evaluation Account for $10 | Only $10 | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | 9 | PipFarm | PFDC | 30% | PipFarm 22% Off + Buy 1 Get 1 Free (Valentine's Offer) | 22% off | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
