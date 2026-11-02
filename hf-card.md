@@ -21,13 +21,13 @@ tags:
 
 As of 2026-02-15, 31 Valentine's Day deals from 26 prop firms are tracked, 31 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Valentine's Day discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 60% OFF with code PFD at Top One Futures, and 50% OFF with code PFD at Atlas Funded.
+The biggest verified Valentine's Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 60% OFF with code PFD at Top One Futures, and 50% OFF with code PFD at Atlas Funded.
 
 ## Prop Firms with the Highest Discount Codes in Valentine's Day 2026
 
 | # | Prop firm | Exclusive code | Code discount (Current) | Latest Valentine's Day deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 90% | Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations | 80% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 1 | Phidias Propfirm | PFD | 80% | Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations | 80% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funding Traders | PFD | 70% | FundingTraders Valentine's Day Special: 31% Off & Profit Split Boost | 31% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 3 | QT Funded | PFD | 60% | QT Funded Valentine's Deal: 45% Off + Bonus Account | 45% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 4 | Top One Futures | PFD | 60% | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
@@ -58,11 +58,11 @@ The newest is **14% Discount on Evaluation Account Fees** from HyroTrader — 14
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 26 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 90% off with code PFD at Phidias Propfirm. The code is separate from the Valentine's Day offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 26 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 80% off with code PFD at Phidias Propfirm. The code is separate from the Valentine's Day offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 14% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
+The newest deal is 14% off. Standing discount codes among these firms run up to 80% off, and every deal in the history below states its own figure.
 
 ---
 
