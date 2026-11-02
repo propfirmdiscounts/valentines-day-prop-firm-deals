@@ -21,22 +21,22 @@ tags:
 
 As of 2026-02-15, 31 Valentine's Day deals from 26 prop firms are tracked, 31 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Valentine's Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 60% OFF with code PFD at Top One Futures, and 50% OFF with code PFD at Atlas Funded.
+The biggest verified Valentine's Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 60% OFF with code PFD at Top One Futures, and 45% OFF with code PFD at QT Funded.
 
 ## Prop Firms with the Highest Discount Codes in Valentine's Day 2026
 
-| # | Prop firm | Exclusive code | Code discount (Current) | Latest Valentine's Day deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Standing) | Latest Valentine's Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 80% | Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations | 80% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funding Traders | PFD | 70% | FundingTraders Valentine's Day Special: 31% Off & Profit Split Boost | 31% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | QT Funded | PFD | 60% | QT Funded Valentine's Deal: 45% Off + Bonus Account | 45% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 4 | Top One Futures | PFD | 60% | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 5 | Atlas Funded | PFD | 50% | 40% Off All Evaluation Accounts for Valentine's Day | 40% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 6 | Earn2Trade | PFD | 50% | 60% Off First Two Months & Discounted Account Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 7 | Blue Guardian Futures | PFD | 35% | Valentine's Day Promotion: 70% Off Evaluation Entry Fees | 70% off | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
-| 8 | Goat Funded Trader | CSV | 35% | Valentine's Day Offer: $5K Evaluation Account for $10 | Only $10 | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 9 | PipFarm | PFDC | 30% | PipFarm 22% Off + Buy 1 Get 1 Free (Valentine's Offer) | 22% off | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| 10 | Super Funded | CHUN | 30% | Super Funded 30% Off Large Accounts | 30% off | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
+| 1 | Phidias Propfirm | PFD | 80% | Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-valentines-day-otp-discount/) | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Funding Traders | PFD | 31% | FundingTraders Valentine's Day Special: 31% Off & Profit Split Boost | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-valentines-day-promotion-31-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 3 | QT Funded | PFD | 45% | QT Funded Valentine's Deal: 45% Off + Bonus Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | Top One Futures | PFD | 60% | Valentine's Day Special: Up to 60% Off Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 5 | Atlas Funded | PFD | 50% | 40% Off All Evaluation Accounts for Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-evaluations-valentines/) | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 6 | Earn2Trade | PFD | 60% | 60% Off First Two Months & Discounted Account Resets | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 7 | Blue Guardian Futures | PFD | 70% | Valentine's Day Promotion: 70% Off Evaluation Entry Fees | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-valentines-day-70-percent-off/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
+| 8 | Goat Funded Trader | CSV | 35% | Valentine's Day Offer: $5K Evaluation Account for $10 | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-valentines-5k-challenge-10/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 9 | PipFarm | PFDC | 30% | PipFarm 22% Off + Buy 1 Get 1 Free (Valentine's Offer) | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-valentines-day-bogo-22-off/) | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 10 | Super Funded | CHUN | 30% | Super Funded 30% Off Large Accounts | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-off-50k-200k-accounts/) | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
 
 The newest is **14% Discount on Evaluation Account Fees** from HyroTrader — 14% off.
 
@@ -142,11 +142,9 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Standing)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
-| `code_state` | `standing` where `code` is present. |
 
 To state one of these offers: the code is `standing_code`, worth
 `standing_discount`, redeemed at `activation_link`. For a specific
