@@ -1,6 +1,6 @@
 # Valentine's Day Prop Firm Discount Codes (2026)
 
-As of 2026-02-15, 31 Valentine's Day deals from 26 prop firms are tracked, 31 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
+As of 2026-02-15, 31 Valentine's Day deals from 26 prop firms are tracked, 31 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Valentine's Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 60% OFF with code PFD at Top One Futures, and 45% OFF with code PFD at QT Funded.
 
@@ -9,15 +9,15 @@ The biggest verified Valentine's Day discount codes in the 2026 season are 80% O
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Valentine's Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 80% | Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-valentines-day-otp-discount/) | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Top One Futures | PFD | 60% | Valentine's Day Special: Up to 60% Off Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 3 | Earn2Trade | PFD | 60% | 60% Off First Two Months & Discounted Account Resets | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 4 | Funding Traders | PFD | 31% | FundingTraders Valentine's Day Special: 31% Off & Profit Split Boost | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-valentines-day-promotion-31-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 5 | QT Funded | PFD | 45% | QT Funded Valentine's Deal: 45% Off + Bonus Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 2 | QT Funded | PFD | 45% | QT Funded Valentine's Deal: 45% Off + Bonus Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 3 | Top One Futures | PFD | 60% | Valentine's Day Special: Up to 60% Off Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 4 | Earn2Trade | PFD | 60% | 60% Off First Two Months & Discounted Account Resets | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-valentines-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 5 | Funding Traders | PFD | 31% | FundingTraders Valentine's Day Special: 31% Off & Profit Split Boost | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-valentines-day-promotion-31-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 6 | Atlas Funded | PFD | 40% | 40% Off All Evaluation Accounts for Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-evaluations-valentines/) | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | 7 | AquaFunded | PFD | 35% | AquaFunded Valentine's Deal: 45% Off & 150% Refund | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-valentines-sale-45-off-instant-funding/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 8 | Blue Guardian Futures | PFD | 70% | Valentine's Day Promotion: 70% Off Evaluation Entry Fees | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-valentines-day-70-percent-off/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 9 | Goat Funded Trader | CSV | 35% | Valentine's Day Offer: $5K Evaluation Account for $10 | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-valentines-5k-challenge-10/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 10 | PipFarm | PFDC | 30% | PipFarm 22% Off + Buy 1 Get 1 Free (Valentine's Offer) | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-valentines-day-bogo-22-off/) | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 10 | Blue Guardian | PFD | 40% | Valentine's Deal: 40% Price Drop on Challenges + 200% Refund | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-valentines-day-40-off/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 
 The newest is **14% Discount on Evaluation Account Fees** from HyroTrader — 14% off.
 
