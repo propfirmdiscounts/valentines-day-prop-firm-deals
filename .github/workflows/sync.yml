@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: "valentinesdaypropfirm"
+  HF_NAMESPACE: "prop-firm"
   EVENT_SLUG: "valentines-day"
   EVENT_NAME: "Valentine's Day"
   REPO_NAME: "valentines-day-prop-firm-deals"
