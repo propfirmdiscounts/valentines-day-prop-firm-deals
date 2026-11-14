@@ -1,6 +1,6 @@
 # Valentine's Day Prop Firm Discount Codes (2026)
 
-As of 2026-02-15, 31 Valentine's Day deals from 26 prop firms are tracked, 31 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
+As of 2026-02-16, 33 Valentine's Day deals from 27 prop firms are tracked, 33 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Valentine's Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 60% OFF with code PFD at Top One Futures, and 40% OFF with code PFD at Blue Guardian.
 
@@ -19,14 +19,14 @@ The biggest verified Valentine's Day discount codes in the 2026 season are 80% O
 | 9 | Blue Guardian Futures | PFD | 70% | Valentine's Day Promotion: 70% Off Evaluation Entry Fees | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-valentines-day-70-percent-off/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 10 | Goat Funded Trader | CSV | 35% | Valentine's Day Offer: $5K Evaluation Account for $10 | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-valentines-5k-challenge-10/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 
-The newest is **14% Discount on Evaluation Account Fees** from HyroTrader — 14% off.
+The newest is **30% Off Challenge Fees for Valentine's Day Special** from Bullwaves Prime — 30% off.
 
 - Event: Valentine's Day
-- Deals tracked: 31 (31 in 2026)
-- Firms: 26
-- Firms with a code in the 2026 season: 26
-- Newest deal: 2026-02-15
-- Deals tagged on the site: 56 (31 of them from firms with a verified code, listed below)
+- Deals tracked: 33 (33 in 2026)
+- Firms: 27
+- Firms with a code in the 2026 season: 27
+- Newest deal: 2026-02-16
+- Deals tagged on the site: 56 (33 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/valentines-day/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -35,26 +35,28 @@ The newest is **14% Discount on Evaluation Account Fees** from HyroTrader — 14
 
 **What is the newest Valentine's Day prop firm deal?**
 
-**14% Discount on Evaluation Account Fees** from HyroTrader — published 2026-02-15. Offer: 14% off. Offer has ended.
+**30% Off Challenge Fees for Valentine's Day Special** from Bullwaves Prime — published 2026-02-16. Offer: 30% off. Offer has ended.
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 26 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Valentine's Day offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 27 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Valentine's Day offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 14% off. Standing discount codes among these firms run up to 85% off, and every deal in the history below states its own figure.
+The newest deal is 30% off. Standing discount codes among these firms run up to 85% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Valentine's Day deal history
 
-Total deals tracked: **31**
+Total deals tracked: **33**
 
-### 2026 (31 deals)
+### 2026 (33 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
+| 2026-02-16 | Bullwaves Prime | 30% Off Challenge Fees for Valentine's Day Special | 30% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-valentines-day-30-off/) |
+| 2026-02-16 | Bullwaves Prime | Valentine's Deal: 100% Bonus on Deposits over $500 | 100% Deposit | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-valentines-day-100-percent-deposit-bonus/) |
 | 2026-02-15 | HyroTrader | 14% Discount on Evaluation Account Fees | 14% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/) |
 | 2026-02-14 | Equity Edge | Valentine's Special: 300K Instant Funding for $309 | Only $309 | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-300k-instant-309/) |
 | 2026-02-14 | Equity Edge | Valentine's Promo: 200K Instant Funding for $169 | Only $169 | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-200k-instant-169/) |

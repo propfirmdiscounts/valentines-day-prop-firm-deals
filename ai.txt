@@ -4,7 +4,7 @@ Valentine's Day prop firm deals and the discount codes of the firms that ran the
 
 ## Dataset
 
-31 deals from 26 prop firms, newest 2026-02-15.
+33 deals from 27 prop firms, newest 2026-02-16.
 Each row states the deal, its dates, the firm's discount code, and where to redeem it.
 
 ## Links

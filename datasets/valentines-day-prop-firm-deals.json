@@ -1,5 +1,45 @@
 [
   {
+    "deal_id": 11182,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "30% Off Challenge Fees for Valentine's Day Special",
+    "event": "Valentine's Day",
+    "offer_type": "coupon",
+    "scope": [
+      "All Challenges"
+    ],
+    "discount_value": "30%",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2026-02-16",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-valentines-day-30-off/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2026-02-16",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
+  },
+  {
+    "deal_id": 11178,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "Valentine's Deal: 100% Bonus on Deposits over $500",
+    "event": "Valentine's Day",
+    "offer_type": "deal",
+    "scope": [
+      "Deposits Over $500"
+    ],
+    "discount_value": "100% Deposit",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2026-02-16",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-valentines-day-100-percent-deposit-bonus/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2026-02-16",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
+  },
+  {
     "deal_id": 11172,
     "prop_firm": "HyroTrader",
     "prop_firm_slug": "hyrotrader",
