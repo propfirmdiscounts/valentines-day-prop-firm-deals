@@ -1,10 +1,10 @@
-# Valentine's Day Prop Firm Discount Codes (2026)
+# Valentine's Day Prop Firm Deals & Discount Codes (2026)
 
-This Valentine's Day, 34 deals from 28 prop firms are tracked, with 34 published during the 2026 season. Every firm carries a verified discount code that works year-round.
+Explore Valentine's Day prop firm deals and discount codes from 28 proprietary trading firms, with 34 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Valentine's Day discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 60% OFF with code PFD at Top One Futures, and 40% OFF with code PFD at Blue Guardian.
 
-## Prop Firms with the Highest Discount Codes in Valentine's Day 2026
+## Prop Firms with the Highest Valentine's Day Discounts 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Valentine's Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -19,20 +19,23 @@ As of November 2026, the biggest verified Valentine's Day discount codes in the 
 | 9 | Blue Guardian Futures | PFD | 70% | Valentine's Day Promotion: 70% Off Evaluation Entry Fees with code PFD | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-valentines-day-70-percent-off/) | Ended | [Blue Guardian Futures Page](https://propfirmdiscount.com/prop-firm/blue-guardian-futures/) |
 | 10 | Goat Funded Trader | CSV | 35% | Valentine's Day Offer: $5K Evaluation Account for $10 | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-valentines-5k-challenge-10/) | Ended | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
 
-The newest is **30% Off Challenge Fees for Valentine's Day Special** from Bullwaves Prime — 30% off.
+The latest recorded Valentine's Day-tagged promotion is Bullwaves Prime offering 30% Off Challenge Fees for Valentine's Day Special, published on February 16, 2026. The offer has since ended.
 
 - Event: Valentine's Day
-- Deals tracked: 34 (34 in 2026)
-- Firms: 28
+- Valentine's Day deals in this dataset: 34
+- Firms represented: 28
+- Deals published in 2026: 34
 - Firms with a code in the 2026 season: 28
 - Newest deal: 2026-02-16
-- Deals tagged on the site: 56 (34 of them from firms with a verified code, listed below)
 - GitHub repository: [Valentine's Day Deals Repository](https://github.com/propfirmdiscounts/valentines-day-prop-firm-deals)
+- All Valentine's Day-tagged deals on the main site: 56 (34 of them from firms with a verified code, listed below)
 - Event page: [Valentine's Day Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/valentines-day/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
 
-## Valentine's Day prop firm deals FAQ
+This repository includes Valentine's Day-tagged deals from firms with a verified standing discount code. The main website may contain additional Valentine's Day-tagged promotions from firms that are not included in this dataset.
+
+## Valentine's Day Prop Firm Deals & Discount Codes FAQ
 
 **What is the newest Valentine's Day prop firm deal?**
 
@@ -48,11 +51,11 @@ The newest deal is 30% off. Standing discount codes among these firms run 85% of
 
 ---
 
-## Valentine's Day deal history
+## Valentine's Day Prop Firm Deal History
 
 Total deals tracked: **34**
 
-### 2026 (34 deals)
+### 2026 Valentine's Day Deals (34 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -93,20 +96,19 @@ Total deals tracked: **34**
 
 ---
 
-## About this repository
+## About the Valentine's Day Prop Firm Deals Dataset
 
-This repository mirrors every **Valentine's Day** deal published on PropFirmDiscount.com by a
-firm carrying a verified discount code, regenerated from the live API.
+This dataset provides a historical record of Valentine's Day-tagged promotional deals published on PropFirmDiscount.com by proprietary trading firms with recorded standing discount codes. Each record preserves the campaign's original discount details, publication date, expiration information, and related firm data. The dataset is regenerated from the PropFirmDiscount API.
 
 A deal is listed here because an editor tagged it for Valentine's Day on the site, not because
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
-instead: https://github.com/propfirmdiscounts
+instead in the [PropFirmDiscount Repositories](https://github.com/propfirmdiscounts).
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
 - Event page: [Valentine's Day Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/valentines-day/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/valentines-day-prop-firm-deals.json`
+## Valentine's Day Prop Firm Deals Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -136,13 +138,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
