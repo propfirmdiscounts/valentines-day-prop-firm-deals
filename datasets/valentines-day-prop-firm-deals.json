@@ -340,26 +340,6 @@
     "activation_link": "https://propfirmdiscount.com/go/qtfunded"
   },
   {
-    "deal_id": 11144,
-    "prop_firm": "CK PropFirm",
-    "prop_firm_slug": "ckcapital",
-    "title": "70% Off Trading Challenge Fees and Resets Valentine's Day",
-    "event": "Valentine's Day",
-    "offer_type": "coupon",
-    "scope": [
-      "Evaluation Accounts, Account Resets"
-    ],
-    "discount_value": "70%",
-    "standing_code": "PFD",
-    "standing_discount": "10%",
-    "date_published": "2026-02-12",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluation-accounts-resets-valentines-day/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/ckcapital/",
-    "last_verified": "2026-02-12",
-    "activation_link": "https://propfirmdiscount.com/go/ckcapital"
-  },
-  {
     "deal_id": 11143,
     "prop_firm": "Funding Your Trades",
     "prop_firm_slug": "funding-your-trades",
@@ -438,26 +418,6 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/fxify/",
     "last_verified": "2026-02-11",
     "activation_link": "https://propfirmdiscount.com/go/fxify"
-  },
-  {
-    "deal_id": 11138,
-    "prop_firm": "Alpha Futures",
-    "prop_firm_slug": "alpha-futures",
-    "title": "Valentine's Day Promo: 20% Off All Evaluation Accounts",
-    "event": "Valentine's Day",
-    "offer_type": "coupon",
-    "scope": [
-      "All Accounts, Evaluations"
-    ],
-    "discount_value": "20%",
-    "standing_code": "Tran009503",
-    "standing_discount": "15%",
-    "date_published": "2026-02-11",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-valentines-day-20-percent-off/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/alpha-futures/",
-    "last_verified": "2026-02-11",
-    "activation_link": "https://propfirmdiscount.com/go/alphafutures"
   },
   {
     "deal_id": 11137,
